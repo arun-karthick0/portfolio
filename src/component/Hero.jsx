@@ -7,6 +7,8 @@ import MongoDB from "../images/MongoDB.svg";
 import exp from "../images/Expressjs.svg";
 import Bootstrap from "../images/bootstrap.svg";
 import Firebase from "../images/firebase.svg";
+import Rest from "../images/rest.svg";
+import Redux from "../images/redux.svg";
 import Resume from "../File/ARUN.pdf";
 function Hero() {
   const skillsIcons = [
@@ -42,6 +44,14 @@ function Hero() {
       img: Firebase,
       title: "firebase",
     },
+    {
+      img: Rest,
+      title: "Rest-API",
+    },
+    {
+      img: Redux,
+      title: "Redux-Toolkit",
+    },
   ];
 
   return (
@@ -55,7 +65,7 @@ function Hero() {
                 <img src={Waving} alt="waving_hand" />
                 <p>
                   I'm Arun ,A passionate web developer creating mobile
-                  Responsive and creative webpages ,lives in bangalore ,India{" "}
+                  Responsive and creative webpages{" "}
                 </p>
                 <span>
                   <a
