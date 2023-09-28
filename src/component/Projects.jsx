@@ -18,8 +18,8 @@ function Projects() {
                 description="This website is build by using React as client side and manages states by using react-redux with FireBase Authentication and authorization and stores movie list and user comments in MONGODB"
                 techno1="React  -- Firebase-Auth"
                 techno2="NodeJs --  MongoDB"
-                code=""
-                live=""
+                code="https://github.com/arun-karthick0/movies-site.git"
+                live="https://movies-app-001.netlify.app/"
                 scrollY="-50%"
                 // icon="🎁"
               />
@@ -29,8 +29,8 @@ function Projects() {
                 description="This website is build by using React as client side and manages states by using react-redux with FireBase Authentication and authorization and saves users details in MONGODB And here integrated with Stripe gateWay test mode"
                 techno1="React -- Firebase-Auth"
                 techno2="NodeJS --  MongoDB"
-                code=""
-                live=""
+                code="https://github.com/arun-karthick0/shopping-site.git"
+                live="https://shopping-site-001.netlify.app/"
                 scrollY="-50%"
                 // icon="🧧"
               />
@@ -40,8 +40,8 @@ function Projects() {
                 description="This website is build by using React as client side and manages states by using react-redux with FireBase Authentication and authorization and saves posted blog and user comments details in firebase FireStore database "
                 techno1="React -- FireBase-Auth "
                 techno2="FireBase Database "
-                code=""
-                live=""
+                code="https://github.com/arun-karthick0/blog-.git"
+                live="https://blog-site-002.netlify.app/"
                 scrollY="-50%"
                 // icon=""
               />
